@@ -1,3 +1,12 @@
+/* Schematics - easyeda.com/praveen.elumalai/timer_switch
+   github - github.com/praveens-git/Timer_Switch_RTC/
+   
+   pin13 - OUTPUT to Relay.
+   pin12 - button (optional).
+   
+   before starting Every thing check whether the day and time is correct.
+*/
+
 #include <Wire.h>
 #include <RTC.h>
 

@@ -1,3 +1,10 @@
+/* Schematics - easyeda.com/praveen.elumalai/timer_switch
+   github - github.com/praveens-git/Timer_Switch_RTC/
+   
+   Arduino      DS3231
+   A5       -     SCL
+   A4       -     SDA.
+*/
 #include <Wire.h>
 #include <RTC.h>
 
